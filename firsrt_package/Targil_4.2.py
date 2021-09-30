@@ -5,6 +5,8 @@ for n in range(2,num):
         break
 ggg=0
 for i in  range(2,num):
+
+
     if(num%i!=0):
       ggg+=1
 
